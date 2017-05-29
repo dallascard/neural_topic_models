@@ -2,7 +2,7 @@
 
 This repo contains code to accompany "A Neural Framework for Generalized Topic Models" by Dallas Card, Chenhao Tan, and Noah A. Smith
 
-The paper can be found at: [add link]
+The paper can be found at: [https://arxiv.org/abs/1705.09296](https://arxiv.org/abs/1705.09296)
 
 
 ### Requirements:
@@ -61,10 +61,10 @@ To train a model using topics, labels, and interactions:
 ### Citation:
 If you find this code useful, please cite:
 ```
-@inproceedings = {card.2017,
+@article = {card.2017,
   author = {Dallas Card and Chenhao Tan and Noah A. Smith},
   title = {A Neural Framework for Generalized Topic Models},
   year = {2017},
-  booktitle = {CoRR}
+  journal = {arXiv preprint arXiv:1705.09296},
 }
 ```
