@@ -61,7 +61,7 @@ To train a model using topics, labels, and interactions:
 ### Citation:
 If you find this code useful, please cite:
 ```
-@article = {card.2017,
+@article{card.2017,
   author = {Dallas Card and Chenhao Tan and Noah A. Smith},
   title = {A Neural Framework for Generalized Topic Models},
   year = {2017},
