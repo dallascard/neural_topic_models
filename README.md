@@ -1,9 +1,13 @@
-# neural_topic_models
+## neural_topic_models
 
-This repo contains code to accompany "A Neural Framework for Generalized Topic Models" by Dallas Card, Chenhao Tan, and Noah A. Smith
+# NOTE: This repo has been deprecated! It has been replaced with: [www.github.com/dallascard/scholar](www.github.com/dallascard/scholar)
+
+
+The accompanying paper has also been updated to reflect the version published at ACL 2018: "Neural Models for Documents with Metadata" by Dallas Card, Chenhao Tan, and Noah A. Smith
 
 The paper can be found at: [https://arxiv.org/abs/1705.09296](https://arxiv.org/abs/1705.09296)
 
+## Legacy documentation:
 
 ### Requirements:
 
