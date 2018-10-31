@@ -1,6 +1,6 @@
 ## neural_topic_models
 
-# NOTE: This repo has been deprecated! It has been replaced with: [www.github.com/dallascard/scholar](www.github.com/dallascard/scholar)
+# NOTE: This repo has been deprecated! It has been replaced with: [www.github.com/dallascard/scholar](https://www.github.com/dallascard/scholar)
 
 
 The accompanying paper has also been updated to reflect the version published at ACL 2018: "Neural Models for Documents with Metadata" by Dallas Card, Chenhao Tan, and Noah A. Smith
